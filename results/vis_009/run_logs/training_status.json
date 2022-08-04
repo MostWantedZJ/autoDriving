@@ -1,0 +1,47 @@
+{
+    "carMove": {
+        "checkpoints": [
+            {
+                "steps": 43680,
+                "file_path": "results\\vis_009\\carMove\\carMove-43680.onnx",
+                "reward": null,
+                "creation_time": 1655931104.1233194,
+                "auxillary_file_paths": [
+                    "results\\vis_009\\carMove\\carMove-43680.pt"
+                ]
+            },
+            {
+                "steps": 49936,
+                "file_path": "results\\vis_009\\carMove\\carMove-49936.onnx",
+                "reward": 0.28333336114883423,
+                "creation_time": 1655931242.6709402,
+                "auxillary_file_paths": [
+                    "results\\vis_009\\carMove\\carMove-49936.pt"
+                ]
+            },
+            {
+                "steps": 50640,
+                "file_path": "results\\vis_009\\carMove\\carMove-50640.onnx",
+                "reward": 0.28333336114883423,
+                "creation_time": 1655931312.0123465,
+                "auxillary_file_paths": [
+                    "results\\vis_009\\carMove\\carMove-50640.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 50640,
+            "file_path": "results\\vis_009\\carMove.onnx",
+            "reward": 0.28333336114883423,
+            "creation_time": 1655931312.0123465,
+            "auxillary_file_paths": [
+                "results\\vis_009\\carMove\\carMove-50640.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.2"
+    }
+}

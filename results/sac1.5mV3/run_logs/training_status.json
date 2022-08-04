@@ -1,0 +1,29 @@
+{
+    "carMoveSAC": {
+        "checkpoints": [
+            {
+                "steps": 103217,
+                "file_path": "results\\sac1.5mV3\\carMoveSAC\\carMoveSAC-103217.onnx",
+                "reward": null,
+                "creation_time": 1658484937.931352,
+                "auxillary_file_paths": [
+                    "results\\sac1.5mV3\\carMoveSAC\\carMoveSAC-103217.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 103217,
+            "file_path": "results\\sac1.5mV3\\carMoveSAC.onnx",
+            "reward": null,
+            "creation_time": 1658484937.931352,
+            "auxillary_file_paths": [
+                "results\\sac1.5mV3\\carMoveSAC\\carMoveSAC-103217.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.2"
+    }
+}

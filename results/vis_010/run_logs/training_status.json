@@ -1,0 +1,65 @@
+{
+    "carMove": {
+        "checkpoints": [
+            {
+                "steps": 1449959,
+                "file_path": "results\\vis_010\\carMove\\carMove-1449959.onnx",
+                "reward": 25.77058881521225,
+                "creation_time": 1655995033.7353296,
+                "auxillary_file_paths": [
+                    "results\\vis_010\\carMove\\carMove-1449959.pt"
+                ]
+            },
+            {
+                "steps": 1499952,
+                "file_path": "results\\vis_010\\carMove\\carMove-1499952.onnx",
+                "reward": null,
+                "creation_time": 1655995563.7987204,
+                "auxillary_file_paths": [
+                    "results\\vis_010\\carMove\\carMove-1499952.pt"
+                ]
+            },
+            {
+                "steps": 1549982,
+                "file_path": "results\\vis_010\\carMove\\carMove-1549982.onnx",
+                "reward": 26.00000062584877,
+                "creation_time": 1655996127.2191827,
+                "auxillary_file_paths": [
+                    "results\\vis_010\\carMove\\carMove-1549982.pt"
+                ]
+            },
+            {
+                "steps": 1599985,
+                "file_path": "results\\vis_010\\carMove\\carMove-1599985.onnx",
+                "reward": 32.31000063419342,
+                "creation_time": 1655996695.9448557,
+                "auxillary_file_paths": [
+                    "results\\vis_010\\carMove\\carMove-1599985.pt"
+                ]
+            },
+            {
+                "steps": 1609536,
+                "file_path": "results\\vis_010\\carMove\\carMove-1609536.onnx",
+                "reward": 28.350000540415447,
+                "creation_time": 1655996798.956447,
+                "auxillary_file_paths": [
+                    "results\\vis_010\\carMove\\carMove-1609536.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1609536,
+            "file_path": "results\\vis_010\\carMove.onnx",
+            "reward": 28.350000540415447,
+            "creation_time": 1655996798.956447,
+            "auxillary_file_paths": [
+                "results\\vis_010\\carMove\\carMove-1609536.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.2"
+    }
+}

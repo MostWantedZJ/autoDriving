@@ -1,0 +1,65 @@
+{
+    "carMove": {
+        "checkpoints": [
+            {
+                "steps": 1349983,
+                "file_path": "results\\ppo1.5mV2\\carMove\\carMove-1349983.onnx",
+                "reward": null,
+                "creation_time": 1658352037.6860192,
+                "auxillary_file_paths": [
+                    "results\\ppo1.5mV2\\carMove\\carMove-1349983.pt"
+                ]
+            },
+            {
+                "steps": 1399958,
+                "file_path": "results\\ppo1.5mV2\\carMove\\carMove-1399958.onnx",
+                "reward": 26.600000381469727,
+                "creation_time": 1658352399.399514,
+                "auxillary_file_paths": [
+                    "results\\ppo1.5mV2\\carMove\\carMove-1399958.pt"
+                ]
+            },
+            {
+                "steps": 1449987,
+                "file_path": "results\\ppo1.5mV2\\carMove\\carMove-1449987.onnx",
+                "reward": 42.220001018047334,
+                "creation_time": 1658352761.9675045,
+                "auxillary_file_paths": [
+                    "results\\ppo1.5mV2\\carMove\\carMove-1449987.pt"
+                ]
+            },
+            {
+                "steps": 1499971,
+                "file_path": "results\\ppo1.5mV2\\carMove\\carMove-1499971.onnx",
+                "reward": 33.52000056505203,
+                "creation_time": 1658353122.015793,
+                "auxillary_file_paths": [
+                    "results\\ppo1.5mV2\\carMove\\carMove-1499971.pt"
+                ]
+            },
+            {
+                "steps": 1500035,
+                "file_path": "results\\ppo1.5mV2\\carMove\\carMove-1500035.onnx",
+                "reward": 33.52000056505203,
+                "creation_time": 1658353122.3747385,
+                "auxillary_file_paths": [
+                    "results\\ppo1.5mV2\\carMove\\carMove-1500035.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1500035,
+            "file_path": "results\\ppo1.5mV2\\carMove.onnx",
+            "reward": 33.52000056505203,
+            "creation_time": 1658353122.3747385,
+            "auxillary_file_paths": [
+                "results\\ppo1.5mV2\\carMove\\carMove-1500035.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.2"
+    }
+}

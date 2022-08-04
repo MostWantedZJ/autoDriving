@@ -1,0 +1,29 @@
+{
+    "carMove": {
+        "checkpoints": [
+            {
+                "steps": 256,
+                "file_path": "results\\vis_007\\carMove\\carMove-256.onnx",
+                "reward": null,
+                "creation_time": 1655917998.5153327,
+                "auxillary_file_paths": [
+                    "results\\vis_007\\carMove\\carMove-256.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 256,
+            "file_path": "results\\vis_007\\carMove.onnx",
+            "reward": null,
+            "creation_time": 1655917998.5153327,
+            "auxillary_file_paths": [
+                "results\\vis_007\\carMove\\carMove-256.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.2"
+    }
+}
